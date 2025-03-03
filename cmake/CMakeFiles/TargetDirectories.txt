@@ -1,0 +1,3 @@
+/home/Petrign/Проги/CPP/vychMat/lab2/cmake/CMakeFiles/lab.dir
+/home/Petrign/Проги/CPP/vychMat/lab2/cmake/CMakeFiles/edit_cache.dir
+/home/Petrign/Проги/CPP/vychMat/lab2/cmake/CMakeFiles/rebuild_cache.dir

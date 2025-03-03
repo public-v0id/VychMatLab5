@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -rdynamic CMakeFiles/lab.dir/src/main.cpp.o CMakeFiles/lab.dir/src/methods.cpp.o CMakeFiles/lab.dir/src/window.cpp.o -o lab  -lginac /usr/lib64/libQt5Widgets.so.5.15.15 /usr/lib64/libQt5Gui.so.5.15.15 /usr/lib64/libQt5Core.so.5.15.15
